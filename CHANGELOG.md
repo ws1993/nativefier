@@ -1,4 +1,21 @@
 
+52.0.0 / 2023-08-25
+===================
+  **[BREAKING]**
+  * Update to Electron 25.7 (#1566)
+  * Update to Electron 25 (#1559)
+
+51.0.1 / 2023-08-04
+===================
+
+  * `npm i` in the Dockerfile to esnure we have what we need to build + test (#1557)
+
+51.0.0 / 2023-08-03
+===================
+  **[BREAKING]**
+  * Update Electron to 21 + Node to 16 (#1550)
+  * Update link to Development Guide (#1544)
+
 50.1.1 / 2023-03-27
 ===================
 
